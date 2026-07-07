@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\jsonbackupjobfileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\jsonbackupjobfileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\jsonconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\jsonconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backuputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backuputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupy\\incrementalbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupy\\incrementalbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupy\\differentialbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupy\\differentialbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupy\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupy\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|c:\\users\\teplikotakar\\desktop\\zaloha1545\\zaloha1545\\zaloha154\\projekttepzalohovac1.5.3\\projekttepzalohovac1.5.2\\projekttepzalohovac1.5.1\\projekttepzalohovac1.4.1\\projekttepzalohovac\\backupy\\fullbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8F91F-0090-42E0-9C65-EF12706F6E8C}|ProjektTepZalohovac\\ProjektTepZalohovac.csproj|solutionrelative:projekttepzalohovac\\backupy\\fullbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\Clearconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\JsonBackupJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupRetention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\teplikotakar\\Desktop\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Retention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\TimeManager.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\TimeManager.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\TimeManager.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\TimeManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:21:06.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackupJob.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupJob.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\BackupJob.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupJob.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\BackupJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:00:08.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Program.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\Program.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Program.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:05:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncrementalBackup.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\IncrementalBackup.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\backupy\\IncrementalBackup.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\IncrementalBackup.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\backupy\\IncrementalBackup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:14:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DifferentialBackup.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\DifferentialBackup.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\backupy\\DifferentialBackup.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\DifferentialBackup.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\backupy\\DifferentialBackup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:18:52.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackupUtils.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupUtils.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\BackupUtils.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupUtils.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\BackupUtils.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:14:58.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\JsonConfigManager.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\JsonConfigManager.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\JsonConfigManager.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\JsonConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:13:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackupManager.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupManager.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\BackupManager.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\BackupManager.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\BackupManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:12:18.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonBackupJobFileConfig.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\JsonBackupJobFileConfig.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\JsonBackupJobFileConfig.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\JsonBackupJobFileConfig.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\JsonBackupJobFileConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:20:38.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\Backup.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\backupy\\Backup.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\Backup.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\backupy\\Backup.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:05:01.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clearconfig.json",
+              "DocumentMoniker": "X:\\Clearconfig.json",
+              "ToolTip": "X:\\Clearconfig.json",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T11:21:10.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FullBackup.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\FullBackup.cs",
+              "RelativeDocumentMoniker": "ProjektTepZalohovac\\backupy\\FullBackup.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\zaloha1545\\zaloha1545\\zaloha154\\ProjektTepZalohovac1.5.3\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\backupy\\FullBackup.cs",
+              "RelativeToolTip": "ProjektTepZalohovac\\backupy\\FullBackup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:14:41.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Retention.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\Desktop\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Retention.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Retention.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\Desktop\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Retention.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ProjektTepZalohovac1.5.2\\ProjektTepZalohovac1.5.1\\ProjektTepZalohovac1.4.1\\ProjektTepZalohovac\\Retention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:20:40.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackupMethod.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupMethod.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupMethod.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupMethod.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupMethod.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:33:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackupRetention.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupRetention.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupRetention.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupRetention.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\BackupRetention.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:33:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonBackupJob.cs",
+              "DocumentMoniker": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\JsonBackupJob.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\JsonBackupJob.cs",
+              "ToolTip": "C:\\Users\\teplikotakar\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\JsonBackupJob.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\ProjektTepZalohovac\\ProjektTepZalohovac\\JsonBackupJob.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:32:58.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
